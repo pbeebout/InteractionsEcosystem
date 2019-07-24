@@ -1,6 +1,11 @@
 ---
 title: "Teacher Information/Resources"
+
 ---
+•	Explain how variation, selection, and time fuel the process of evolution.
+•	Analyze, organize, and graph data.
+
+Driving question: What evidence exists to show that organisms change over time in response to changes in the environment?
 
 [Developing an explanation for Mouse Fur Color](https://www.biointeractive.org/sites/default/files/media/file/2019-05/MouseFurColor-Educator-act_0.pdf)
 
@@ -9,3 +14,8 @@ title: "Teacher Information/Resources"
 [Color Variation Over Time - Teacher and student wkst](https://www.biointeractive.org/sites/default/files/MouseColorVar-Educator-act.pdf)
 
 [Betterlesson - an extension some of the same with graphing](https://betterlesson.com/lesson/636021/pocket-mouse-example-natural-selection)
+
+NGSS Standards- Life Sciences 
+*LS2: Ecosystems: Interactions, energy, and dynamics
+*LS3: Heredity: Inheritance & variation of traits 
+*LS4: Biological evolution: unity & diversity
