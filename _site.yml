@@ -1,0 +1,9 @@
+name: "InteractionsEcosystem"
+navbar:
+  title: "Natural selection: who is the fittest and why?"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Materials"
+      href: materials.html
+output_dir: "docs"
