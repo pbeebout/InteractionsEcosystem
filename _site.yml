@@ -6,8 +6,13 @@ navbar:
       href: index.html
     - text: "Materials"
       href: materials.html
+    - text: "Teacher Information"
+      href: teacher.html
     - text: "Videos"
       href: videos.html
+    - text: "Assessments"
+      href: assessments.html
     - text: "Credit Resources"
       href: credits.html
+      
 output_dir: "docs"

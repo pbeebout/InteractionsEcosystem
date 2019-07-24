@@ -279,7 +279,13 @@ $(document).ready(function () {
   <a href="materials.html">Materials</a>
 </li>
 <li>
+  <a href="teacher.html">Teacher Information</a>
+</li>
+<li>
   <a href="videos.html">Videos</a>
+</li>
+<li>
+  <a href="assessments.html">Assessments</a>
 </li>
 <li>
   <a href="credits.html">Credit Resources</a>
@@ -300,11 +306,27 @@ $(document).ready(function () {
 </div>
 
 
-<div id="interactionsecosystem-" class="section level1">
-<h1>InteractionsEcosystem-</h1>
+<div id="interactionsecosystem" class="section level1">
+<h1>InteractionsEcosystem</h1>
 <p>Teaching about Natural Selection</p>
 <p>Website at <a href="https://pbeebout.github.io/InteractionsEcosystem/" class="uri">https://pbeebout.github.io/InteractionsEcosystem/</a></p>
-<p>Work by Polly Beebout, helped by Brian O’Meara.</p>
+<p>Work by Polly BeeBout, helped by Brian O’Meara.</p>
+<p>To make changes:</p>
+<p>Open Terminal.app (in Applications/Utilities) In terminal, type the following (after each terminal command, hit return)</p>
+<p><code>cd ~/Desktop/InteractionsEcosystem</code></p>
+<p>Then, to get any changes</p>
+<p><code>git pull</code></p>
+<p>Then you can edit the files (names end in *.Rmd). This is a format called RMarkdown.</p>
+<p>When you’re done editing, in Terminal:</p>
+<p><code>Rscript -e "rmarkdown::render_site()"</code></p>
+<p>Which will create updated versions of pages.</p>
+<p>After making changes, to add new files:</p>
+<p><code>git add .</code></p>
+<p>then</p>
+<p><code>git commit -m'updated site' -a</code></p>
+<p>To save the changes and</p>
+<p><code>git push</code></p>
+<p>to put the changes on github. The new <a href="https://pbeebout.github.io/InteractionsEcosystem/">site</a> will update in a few minutes.</p>
 </div>
 
 
