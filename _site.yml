@@ -9,5 +9,5 @@ navbar:
     - text: "Videos"
       href: videos.html
     - text: "Credit Resources"
-      href: credit.html
+      href: credits.html
 output_dir: "docs"
