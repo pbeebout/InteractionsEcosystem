@@ -3,6 +3,17 @@ title: "Materials "
 ---
 
  Have students color butterflies then cut them out give them a short period of time (8-10 minutes to complete). Next, one group of students place thier butterflies around the room in plain sight and another group of students then "eats" as many as they can find in 20 seconds. This shows students exactly how Natural Selection happens in nature. This will then lead into the Rock Pocket Mouse.
+ 
+ Vocabulary:
+ * mutation
+ * genes
+ * evolution
+ * ecosystem
+ * natural selection
+ * adaptations
+ * species
+ * organism
+ * population
 
 [Butterfly template](Butterflytemplate.pdf)
 
@@ -17,5 +28,7 @@ Students will get on https://www.onezoom.org/ and investigate rodents and their 
 [Wkst. How can Evolution be observed in mouse populations?](https://betterlesson.com/lesson/636021/pocket-mouse-example-natural-selection)
 
 [International Union for Conservation of Nature and Natural Resources/IUCN Red List of Threatened Species](https://www.iucnredlist.org/)
+
+[Natural Selection - Darwin reading/wkst, data, extension to lesson](MS-NATURAL-SELECTION-lesson-plans.docx)
 
 
