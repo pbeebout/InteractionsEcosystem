@@ -1,4 +1,10 @@
 ---
-title: "Credits for Resources"
+title: "Credits"
 ---
+
+* hhmi/BioInteractive https://www.biointeractive.org/classroom-resources?keyword=rock+pocket+mouse&topics=All&resource_type=All&level=All&sort_bef_combine=search_api_relevance+DESC
+* https://www.onezoom.org/
+* https://quizizz.com
+* https://betterlesson.com/lesson/636021/pocket-mouse-example-natural-selection Lori Kasiak
+* Master Coder! Brian O'Meara
 
