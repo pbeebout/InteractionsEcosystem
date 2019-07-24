@@ -6,4 +6,8 @@ navbar:
       href: index.html
     - text: "Materials"
       href: materials.html
+    - text: "Videos"
+      href: videos.html
+    - text: "Credit Resources"
+      href: credit.html
 output_dir: "docs"
